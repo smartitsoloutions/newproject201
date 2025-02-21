@@ -7,7 +7,7 @@ public class SampleJavaProgram {
         System.out.print("Enter your name: ");
         String name = scanner.nextLine();
         
-        System.out.print("Enter a new student number: ");
+        System.out.print("Enter a new student Name & Number: ");
         int number = scanner.nextInt();
         
         System.out.println("Hello, " + name + "! Here is a countdown:");
